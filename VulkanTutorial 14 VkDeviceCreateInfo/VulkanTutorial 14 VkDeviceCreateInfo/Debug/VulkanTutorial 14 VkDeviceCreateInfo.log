@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  VulkanTutorial 14 VkDeviceCreateInfo.cpp
+y:\2_it_informatik\2_programmierung\3_ms vs 2017 ce\2_projekte\vulkantutorial 14 vkdevicecreateinfo\vulkantutorial 14 vkdevicecreateinfo\vulkantutorial 14 vkdevicecreateinfo.cpp(93): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+y:\2_it_informatik\2_programmierung\3_ms vs 2017 ce\2_projekte\vulkantutorial 14 vkdevicecreateinfo\vulkantutorial 14 vkdevicecreateinfo\vulkantutorial 14 vkdevicecreateinfo.cpp(150): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  VulkanTutorial 14 VkDeviceCreateInfo.vcxproj -> Y:\2_IT_Informatik\2_Programmierung\3_MS VS 2017 CE\2_Projekte\VulkanTutorial 14 VkDeviceCreateInfo\Debug\VulkanTutorial 14 VkDeviceCreateInfo.exe
+  VulkanTutorial 14 VkDeviceCreateInfo.vcxproj -> Y:\2_IT_Informatik\2_Programmierung\3_MS VS 2017 CE\2_Projekte\VulkanTutorial 14 VkDeviceCreateInfo\Debug\VulkanTutorial 14 VkDeviceCreateInfo.pdb (Partial PDB)

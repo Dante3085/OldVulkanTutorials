@@ -1,0 +1,7 @@
+﻿  VulkanTutorial 19 VkQueue.cpp
+y:\2_it_informatik\2_programmierung\3_ms vs 2017 ce\2_projekte\vulkantutorial 19 vkqueue\vulkantutorial 19 vkqueue\vulkantutorial 19 vkqueue.cpp(101): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+y:\2_it_informatik\2_programmierung\3_ms vs 2017 ce\2_projekte\vulkantutorial 19 vkqueue\vulkantutorial 19 vkqueue\vulkantutorial 19 vkqueue.cpp(148): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+y:\2_it_informatik\2_programmierung\3_ms vs 2017 ce\2_projekte\vulkantutorial 19 vkqueue\vulkantutorial 19 vkqueue\vulkantutorial 19 vkqueue.cpp(162): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+y:\2_it_informatik\2_programmierung\3_ms vs 2017 ce\2_projekte\vulkantutorial 19 vkqueue\vulkantutorial 19 vkqueue\vulkantutorial 19 vkqueue.cpp(210): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  VulkanTutorial 19 VkQueue.vcxproj -> Y:\2_IT_Informatik\2_Programmierung\3_MS VS 2017 CE\2_Projekte\VulkanTutorial 19 VkQueue\Debug\VulkanTutorial 19 VkQueue.exe
+  VulkanTutorial 19 VkQueue.vcxproj -> Y:\2_IT_Informatik\2_Programmierung\3_MS VS 2017 CE\2_Projekte\VulkanTutorial 19 VkQueue\Debug\VulkanTutorial 19 VkQueue.pdb (Partial PDB)

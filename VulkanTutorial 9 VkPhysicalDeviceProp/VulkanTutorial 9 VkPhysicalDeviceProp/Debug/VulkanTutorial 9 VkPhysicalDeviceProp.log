@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  VulkanTutorial 9 VkPhysicalDeviceProp.cpp
+y:\2_it_informatik\2_programmierung\3_ms vs 2017 ce\2_projekte\vulkantutorial 9 vkphysicaldeviceprop\vulkantutorial 9 vkphysicaldeviceprop\vulkantutorial 9 vkphysicaldeviceprop.cpp(107): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  VulkanTutorial 9 VkPhysicalDeviceProp.vcxproj -> Y:\2_IT_Informatik\2_Programmierung\3_MS VS 2017 CE\2_Projekte\VulkanTutorial 9 VkPhysicalDeviceProp\Debug\VulkanTutorial 9 VkPhysicalDeviceProp.exe
+  VulkanTutorial 9 VkPhysicalDeviceProp.vcxproj -> Y:\2_IT_Informatik\2_Programmierung\3_MS VS 2017 CE\2_Projekte\VulkanTutorial 9 VkPhysicalDeviceProp\Debug\VulkanTutorial 9 VkPhysicalDeviceProp.pdb (Partial PDB)

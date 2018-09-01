@@ -1,0 +1,4 @@
+﻿  VulkanTutorial 11 VkPhysicalDeviceMem.cpp
+y:\2_it_informatik\2_programmierung\3_ms vs 2017 ce\2_projekte\vulkantutorial 11 vkphysicaldevicemem\vulkantutorial 11 vkphysicaldevicemem\vulkantutorial 11 vkphysicaldevicemem.cpp(103): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  VulkanTutorial 11 VkPhysicalDeviceMem.vcxproj -> Y:\2_IT_Informatik\2_Programmierung\3_MS VS 2017 CE\2_Projekte\VulkanTutorial 11 VkPhysicalDeviceMem\Debug\VulkanTutorial 11 VkPhysicalDeviceMem.exe
+  VulkanTutorial 11 VkPhysicalDeviceMem.vcxproj -> Y:\2_IT_Informatik\2_Programmierung\3_MS VS 2017 CE\2_Projekte\VulkanTutorial 11 VkPhysicalDeviceMem\Debug\VulkanTutorial 11 VkPhysicalDeviceMem.pdb (Partial PDB)

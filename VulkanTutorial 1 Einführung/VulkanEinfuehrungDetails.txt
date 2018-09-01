@@ -1,0 +1,56 @@
+VULKAN(by KHRONOS GROUP)
+------ -
+
+Was ist Vulkan ?
+---------------- -
+
+*"Nachfolger" von OpenGL
+	*OpenGl und Vulkan werden noch lange parallel existieren.
+	*OpenGL hat noch Daseinsberechtigung. Hauptgrund ist einfachere Bedienbarkeit fuer den Programmierer.
+
+*Grafikschnittstelle
+	*Moeglichkeit, um auf Grafikkarte zuzugreifen zum Rendern.
+		*Rendern: In der Computergrafik die Erzeugung eines Bildes aus Rohdaten.
+			*Rohdaten : z.B.geometrische Beschreibungen im 2D oder 3D Raum.
+	*CPU - Rendering ist auch moeglich, aber deutlich langsamer im Vergleich zum GPU - Rendering.
+
+*Sehr, sehr low level
+	*C++ als low - level Programmiersprache bietet sich an.
+	*Ist allerdings auch mit anderen Programmiersprachen moeglich.
+
+*"explicit API"
+	*Alles muss vom Programmierer manuell erledigt werden.
+	*Beispiel: Synchronisation beim Multithreading wird nicht vom Treiber uebernommen(bei OpenGL schon).
+	*Programmcode wird somit deutlich ausfuehrlicher und expliziter.
+
+*weniger Errorchecks
+	*Auf fehlerhafte Parameter koennte in OpenGL durch den Treiber mit Fehlermeldungen hingewiesen werden.
+	*In Vulkan ist dies nicht so. Weniger Hilfestellungen bei Fehlern.
+	*Allerdings somit auch keine Errorchecks in Releasefassung = > bessere Performance
+
+*Performant
+	*bessere Optimierungsmoeglichkeiten in Vulkan.
+	*Die Hardware ist praeziser steuerbar.
+	*OpenGL muss Moeglichkeit geben, dass nicht verwendete Features noch benutzt werden.Benoetigt mehr tracking
+	im Hintergrund.Fuehrt zu Performanceeinbussen.
+	*Implizites Hintergrundtracking faellt bei Vulkan komplett weg. In Vulkan wird nur das eingesetzt, was
+	vom Programmierer manuel angefragt wurde.
+
+*Anpassungsfaehig an Programme
+	*In Vulkan wird nur das eingesetzt, was vom Programmierer manuel angefragt wurde.
+
+Vorwissen fuer dieses Tutorial
+------------------------------
+
+* C++ (Brotcrunsher C++Tutorial)
+
+* Lineare Algebra (Vektoralgebra)
+
+System-und Softwareanforderungen
+---------------------------------
+
+*System: Windows
+
+*Software: Microsoft Visual Studio
+
+!Vulkan selber ist platformunabhaengig!

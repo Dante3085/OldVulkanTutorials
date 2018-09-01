@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v141:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=10.0.14393.0
+Debug|Win32|Y:\2_IT_Informatik\2_Programmierung\3_MS VS 2017 CE\2_Projekte\VulkanTutorial 15 VkDevicevkCreateDev\|
